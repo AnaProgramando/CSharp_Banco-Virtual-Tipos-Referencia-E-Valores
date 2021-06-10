@@ -1,4 +1,4 @@
-# CSharp - Tipos de Referência e Valores <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+# <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> CSharp - Projeto de Banco Virtual - Tipos de Referência e Valores
 
 Olá, seja muito bem vinda(o)!
 
