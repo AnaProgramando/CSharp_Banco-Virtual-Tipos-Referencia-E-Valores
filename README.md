@@ -73,11 +73,8 @@ Se precisar de ajuda, entre em contato comigo 😉
 </div>
 
 <br>
-<div align="right">
+<div align="center">
 
   [🧑‍🎨 Descubra mais Pixel Arts do Pixel Jeff](https://www.behance.net/pixeljeff)
   
 </div>
-
-
-<a href="https://www.behance.net/pixeljeff" target="_blank"><span>🧑‍🎨 Descubra mais Pixel Arts do Pixel Jeff</a>
